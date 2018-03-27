@@ -1,4 +1,4 @@
-AC_INIT([muchmore], [0.1], [], [muchmore], [https://github.com/ocminer/muchmore-miner])
+AC_INIT([suprminer], [0.1], [], [suprminer], [https://github.com/ocminer/suprminer])
 
 AC_PREREQ([2.59c])
 AC_CANONICAL_SYSTEM
